@@ -9,16 +9,16 @@ For every person featured, we have a video recording of a conversations of appro
 *Work in progress - subject to change*
 
 ### Part I  Paradise lost
-#### 1. Introduction
-  Thinking about media as extensions of our physical existence.
-#### 2. The utopian cyberspace
+#### 1. Introduction - The utopian cyberspace 
   Douglas Rushkoff, "It is not us who have changed, it is the Internet"
 
 ### Part II  Activist space
-#### 3. Digital Zapatism
-  Ricardo Dominguez, "
-#### 4. The Wet Space
+#### 2. Digital Zapatism
+  Ricardo Dominguez, "Digital Zapatism"
+#### 3. The Wet Space
   Geert Lovink, "The Wet Space"
+#### 4. Black Net Art
+  Mendi and Keith Obadike, "Our Black.Net.Art Actions"
   
 ### Part III  Cyber Feminism
 #### 5. Cyberfeminism Index
@@ -29,25 +29,24 @@ For every person featured, we have a video recording of a conversations of appro
   Jasmina Tešanović, "The Internet of Women Things"
 
 ### Part IV  Cyberpunk
+#### 8. Cyberpunk
   Bruce Sterling, "This sense of wonder"
-  Jane Metcalf, "Electric Work"
+#### 9. Wired
+  Jane Metcalf, "Electric Word"
 
 ### Part V  Cyber Poetics
-#### 8. Hypertext
+#### 10. Hypertext
   JR Carpenter, "Send more than words ... EVERYONE LOVES PICTURES"
-#### 9. Slow Media
+#### 11. Slow Media
   Sabria David, Joerg Blumtritt, "Slow Media Manifesto"
-#### 10. Art spaces
+#### 12. Art spaces
   Ruth Catlow, "Place matters"
 
 ### Part VI  Transcending bodies
-#### 11. Cyborgs
+#### 13. Cyborgs
   Enno Park, "Exclusion, inclusion"
-#### 12. Biopunk
+#### 14. Biopunk
   Heather Dewey-Hagborg, "Lovesick"
-
-### Part VII  Wrapping it up
-#### 13. and 14. Final project
 
 ***
 <sup>***[Understanding Interactive Media](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching)</sup>
