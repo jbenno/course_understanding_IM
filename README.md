@@ -1,3 +1,5 @@
+<sup>[back to Teaching Home](https://github.com/jbenno/teaching)<sup>
+
 # Understanding Interactive Media
 
 This seminar course is an introduction to interactive media as part of communication culture. Students critically examine how interactive media (and technology in a broader sense) change conditions of society and culture while being themselves shaped by economic and political forces. The course introduces students to a framework of argumentation and terminology which they will apply to analyze and critique examples of cultural and artistic expression in interactive media. With weekly readings, writing, presentations, discussions, and creative projects, the course lays the conceptual foundation to interactive media practice.
